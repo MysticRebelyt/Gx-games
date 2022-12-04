@@ -7,7 +7,7 @@
     <button>Play Now</button>
     <script>
       var urlObj = new window.URL(window.location.href);
-      var url = "https://gx.games";
+      var url = "https://animefreak.ws";
       if (url) {
         var win;
  
